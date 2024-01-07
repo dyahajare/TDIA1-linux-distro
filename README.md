@@ -17,6 +17,8 @@ Guide D'installation :
 4/ Suivre les étapes d'installation.
 5/ Set UP de l'utilisateur.
 
+Voici notre distribution personnalisée : 
+https://drive.google.com/file/d/1aYXDMylTrpsaDHFqoA30CuN2byPNqnnB/view?usp=sharing
 
 Guide D'utilisation:
 1/ Lancement de SETUP: run du script SETUP.
